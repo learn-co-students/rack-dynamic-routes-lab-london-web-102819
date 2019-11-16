@@ -1,5 +1,3 @@
-#require_relative "item.rb"
-
 class Application 
 
   def call(env)
